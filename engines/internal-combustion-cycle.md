@@ -19,7 +19,8 @@
 
 - **Piston** is connected to the **crankshaft** by a **connecting rod**.
   - As the crankshaft spins, the cycle starts each time.
-- Steps of the cycle:
+  - When a piston travel to the end of its range, up or down, its a stroke.
+- Steps of the four stroke cycle:
   - 1: The piston starts at the top.
     - Intake valve opens.
     - Piston moves down.
@@ -34,7 +35,8 @@
     - Spark plug emits a spark.
       - To ignite the gasoline.
     - The gasoline charge in the cyclinder explodes.
-      - Drives the pistoen down.
+      - Drives the piston down.
+    - Connecting rod transfers this force down to the crankshaft.
     - This is the **combustion stroke** (bang).
   - 4: Piston reaches the bottom of its stroke.
     - Exhaust valve opens.
@@ -44,3 +46,5 @@
     - Intakes in (sucks in) another charge of air and gas.
 - Linear motion of pistons converted into rotational motion via crankshafts.
   - Rotational is helpful as it helps to turn car wheels.
+- For smooth power delivery,
+  - pistons take turns firing.
