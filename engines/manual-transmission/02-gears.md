@@ -6,7 +6,7 @@
   - Input speed is different from output speed.
   - Speed gears in a constant mesh transmission are always linked.
 
-![Gear teeth](../../images/gear-teeth.png)
+![Gear teeth](../images/gear-teeth.png)
 
 - Diagonal and helical teeth on cogs (except for reverse which has straight teeth).
   - For smooth rotations.
